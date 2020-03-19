@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Forsyuk.E\\RiderProjects\\Review\\Review.csproj": {}
+    "C:\\Project\\Review\\Review.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Forsyuk.E\\RiderProjects\\Review\\Review.csproj": {
+    "C:\\Project\\Review\\Review.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Forsyuk.E\\RiderProjects\\Review\\Review.csproj",
+        "projectUniqueName": "C:\\Project\\Review\\Review.csproj",
         "projectName": "Review",
-        "projectPath": "C:\\Users\\Forsyuk.E\\RiderProjects\\Review\\Review.csproj",
-        "packagesPath": "C:\\Users\\Forsyuk.E\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Forsyuk.E\\RiderProjects\\Review\\obj\\",
+        "projectPath": "C:\\Project\\Review\\Review.csproj",
+        "packagesPath": "C:\\Users\\daive\\.nuget\\packages\\",
+        "outputPath": "C:\\Project\\Review\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Forsyuk.E\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\daive\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
